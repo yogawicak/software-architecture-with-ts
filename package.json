@@ -1,0 +1,22 @@
+{
+  "name": "software-architecture-with-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogawicak/software-architecture-with-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogawicak/software-architecture-with-ts/issues"
+  },
+  "homepage": "https://github.com/yogawicak/software-architecture-with-ts#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "watch": ["solid-principles"],
+    "ext": "ts,json",
+    "ignore": ["src/**/*.spec.ts"],
+    "exec": "ts-node ./solid-principles/index.ts"
+}
